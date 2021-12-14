@@ -1,0 +1,3 @@
+Flask
+pickle-mixin
+flask_cors
